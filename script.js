@@ -1,7 +1,7 @@
 const slides = [
     {
         img: 'slide1.gif',
-        text: "HELLOOOO!",
+        text: "HELLOOoOO!",
         dull: true,
         button: "HIII?"
     },
